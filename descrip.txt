@@ -1,0 +1,6 @@
+"Applied Principal Component Analysis (PCA) and clustering algorithms (K-Means, Gaussian Mixture Models, DBSCAN) to the Iris dataset, achieving effective dimensionality reduction and accurate cluster analysis with performance evaluation using purity scores."
+
+
+
+
+
